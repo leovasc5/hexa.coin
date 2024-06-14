@@ -55,3 +55,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### wrapper ###
+.mvn/
+.mvnw
+mvnw.cmd
